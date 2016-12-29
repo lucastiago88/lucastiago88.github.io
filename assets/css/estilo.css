@@ -8,6 +8,7 @@ body {
   /* The html and body elements cannot have any padding or margin. */
   border-top: 1px solid #242943;
 }
+
 /* Wrapper for page content to push down footer */
 #wrap {
   padding-bottom: 50px;	
@@ -31,7 +32,7 @@ padding: 2px 0;
 box-shadow: 0 -3px 9px #000;
 width: 100%;
 z-index: 10;
-position: absolute;
+position: relative;
 border-radius: 0;
 border:none;
 
@@ -111,18 +112,15 @@ border:none;
 }
 */
 
-#banner{
-  background: #242943;
-  width: 100%
-}
 
-#banner h1{
-color: #fff;
+
+#banner h1 , #contato h1, #blog h1, #habilidades h1, .blog-post h3 {
+color: #2a2f4a;
 text-align: center;
 margin: 0 0 30px;
-text-shadow: 3px 3px #004c79;
+text-shadow: 1px 1px #2a2f4a;
 font-size: 65px;
-padding: 8.75rem 0 4.125rem;
+padding: 35px;
 
 }
 .panel-default h4 {
@@ -139,10 +137,10 @@ padding: 8.75rem 0 4.125rem;
   font-size: 15px;
 }
 .panel-default h4 a, h5 a {
-  color: #27A822;
+  color: #2a2f4a;
 }
 .panel-default h4 a:hover, h5 a:hover {
-  color: #267723;
+  color: #2a2f4a;
 }
 .panel{
   border-style: none;
@@ -188,8 +186,6 @@ padding: 8.75rem 0 4.125rem;
 
 #rodape {
 border-bottom: 5px solid #242943;
-background-color: #fff;
-border-top: 1px solid rgba(222,222,222,0.5);
 padding: 1.5em;
 }
 
@@ -214,4 +210,9 @@ div.footer{
 .img-circle{
   margin: 0 auto;
 
+}
+
+ul.list li{
+  color: #333;
+  font-size: 20px;
 }

@@ -8,10 +8,10 @@
 # Site settings
 title: Lucas Tiago - Portfolio
 author: Lucas Tiago Santiago Silva
-email: e@domain.com
+email: ltsantiago88@gmail.com
 avatar: lucas.jpg
-description: Portfolio de Lucas Tiago| Desenvolvedor Front-end.
-baseurl: "/portfolio/" # the subpath of your site, e.g. /blog
+description: Portfólio de Lucas Tiago Desenvolvedor Front-end.
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter: lucas_silva88
 github:  lucastiago88
@@ -19,6 +19,8 @@ facebook: lucastiago.silva
 
 
 
+
 # Build settings
-markdown: kramdown
-permalink: /blog/:title
+permalink   : blog/:title/
+markdown    : kramdown
+

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projetos
+title: Projetos | Portfólio de Lucas Tiago
 permalink: projetos
 ---
 <header id="banner"  role="banner">
@@ -18,39 +18,34 @@ permalink: projetos
 			<div class="row">
 			  <div class="panel panel-default">
 			    <div class="panel-body">
-					<h5>
-						<i class="fa fa-github"></i>&nbsp;&nbsp;<strong><a href="#">Project 1</a></strong>
-						- Ei viderer tacimates pro, quem assum ea nam. Veritus omnesque eam te. Et natum mucius tamquam vel,
-						ea dolorem volumus deterruisset nec. Graeci mentitum sea an, eu prima elaboraret est.
-					</h5>
-					<h5>
-						<i class="fa fa-github"></i>&nbsp;&nbsp;<strong><a href="#">Project 2</a></strong>
-						- An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire.
-						Te his neglegentur consectetuer.
-					</h5>
 			    	<h5>
-						<i class="fa fa-github"></i>&nbsp;&nbsp;<strong><a href="#">Project 3</a></strong>
-						- An alii quot tantas eum, doming platonem persecuti mea et, vim perpetua cotidieque delicatissimi in.
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://matricula2015.salvador.ba.gov.br/SIGE/" target="_blank">Projeto Redesign Sistema SIGE</a></strong>
+						<p>Redesign do sistema de SIGE- Sistema de Gestão de Pessoas utilizando conceitos de   UI e UX. Desenvolvimento Front-End em conjunto a linguagem Java utilizando o Framework Java Struts e controle de versionamento CVS</p>
 					</h5>
 					<h5>
-						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="#">Project 4</a></strong>
-						- Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem,
-						ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://matricula2016.salvador.ba.gov.br/mais/" target="_blank">Projeto Redesign Matrícula Informatizada</a></strong>
+						<p>Redesign do sistema de Matrícula utilizando conceitos de   UI e UX. Desenvolvimento Front-End em conjunto a linguagem Java utilizando o Framework Java Struts E controle de versionamento CVS</p>
 					</h5>
 					<h5>
-						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="#">Project 5</a></strong>
-						- Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo,
-						eam doming blandit facilisis.
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://aulatech.com.br/" target="_blank">Projeto Aulatech</a></strong>
+						<p>Desenvolvimento de site do projeto utilizando framework front-end Bootstrap em conjunto com a linguagem PHP e o framework Laravel;</p>
+						<p> Desenvolvimento Front End do sistema gerenciamento de video aulas aplicando técnicas de UX(User experience).</p>
 					</h5>
 					<h5>
-						<i class="fa fa-cog"></i>&nbsp;&nbsp;<strong><a href="#">Project 6</a></strong>
-						- Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem,
-						usu ex sapientem gubergren. Tamquam admodum ei usu.
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://jogodainovacao.com.br" target="_blank">Projeto Jogo da Inovação</a></strong>
+						<p> Implementanção  soluções de UX e UI no Site Jogo da Inovação  utilizando Wordpress.</p>
 					</h5>
 					<h5>
-						<i class="fa fa-cog"></i>&nbsp;&nbsp;<strong><a href="#">Project 7</a></strong>
-						- Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum
-						tractatos partiendo at, debet ubique oporteat ut his.
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://jogodainovacao.com.br/joinova" target="_blank">Projeto Hotsite Joinova</a></strong>
+						<p>Desenvolvimento do Hotsite Joinova, com Implementações para Mobile First(Responsivo) Utilizando Frameword Bootstrap 3.</p>
+					</h5>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://ilp401-002.fieb.org.br/ecoeficiente" target="_blank">Projeto Ecoeficiente Web Responsiva</a></strong>
+						<p>Desenvolvimento Front-End, com técnicas de UX E UI, utilizando framework Front-end Bootstrap em conjunto com a linguagem Ruby e o framework Rais.</p>
+					</h5>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://www.lememilitar.com/ecommerce/" target="_blank">Projeto Desenvolvimento de E-commerce</a></strong>
+						<p>Liderança e desenvolvimento para implantação de  E-commerce para fardamentos militar. Utilizando ferramenta Open Source(Opencart), juntamente com desenvolvimento Front-End(Xhtml, Css, Js).</p>
 					</h5>
 			    </div>
 			  </div>	
