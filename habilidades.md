@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Habilidades de Lucas\t|  Portfólio de Lucas Tiago"
+title: Habilidades|  Portfólio de Lucas Tiago
 permalink: habilidades
 
 ---
