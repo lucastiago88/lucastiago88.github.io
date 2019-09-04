@@ -2,7 +2,6 @@
 layout: default
 title: Habilidades |  Portfólio de Lucas Tiago
 permalink: habilidades
-published: false
 
 ---
 Testando
