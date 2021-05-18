@@ -1,0 +1,62 @@
+I"<header id="banner" role="banner">
+	<div class="container">
+		<div class="row">
+			<h1>Projetos</h1>
+		</div>
+	</div>	
+</header>
+
+<section id="projetos">
+	<div class="col-lg-12 col-sm-12 colxs-12 col-sm-12">
+		<div class="container">
+			<div class="row">
+			  <div class="panel panel-default">
+			    <div class="panel-body">
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://usuariounico.educacao.salvador.ba.gov.br/" target="_blank">Projeto Sistema Ordem de Serviço</a></strong>
+						<p>Desenvolvimento Front-End do Sistema O.S da SMED( Secretaria Municipal de Salvador) utilizando conceitos de UX e UI, html5,CSS3 e JS, além de Responsive Mobile, utilizando Framework Bootstrap 4. em conjunto com a linguaguem PHP  e Framework YII</p>
+					</h5>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://usuariounico.educacao.salvador.ba.gov.br/" target="_blank">Projeto Sistema Usúario Único</a></strong>
+						<p>Desenvolvimento Front-End do sistema Usúario Único  da SMED( Secretaria Municipal de Salvador) utilizando conceitos de UX e UI, html5,CSS3 e JS, além de Responsive Mobile, utilizando Framework Bootstrap 4. Além da Utilização de <strong>Testes Funcionais</strong> visando atestar se a aplicação desenvolvida desempenha  </p>
+					</h5>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://educacao.salvador.ba.gov.br/" target="_blank">Projeto Portal da SMED( Secretaria Municipal de Salvador)</a></strong>
+						<p>Desenvolvimento do Portal da SMED( Secretaria Municipal de Salvador) utilizando conceitos de UX e UI, html5,CSS3 e JS, além de Responsive Mobile, utilizando Framework Bootstrap 4.</p>
+					</h5>
+			    	<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://web.educacao.salvador.ba.gov.br/SIGE/" target="_blank">Projeto Redesign Sistema SIGE</a></strong>
+						<p>Redesign do sistema de SIGE- Sistema de Gestão de Pessoas utilizando conceitos de   UI e UX. Desenvolvimento Front-End utilizando Framework Bootstrap, em conjunto a linguagem Java utilizando o Framework Java Struts e controle de versionamento CVS</p>
+					</h5>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://matricula.educacao.salvador.ba.gov.br/mais/preparaLogar.do" target="_blank">Projeto Redesign Matrícula Informatizada</a></strong>
+						<p>Redesign do sistema de Matrícula utilizando conceitos de   UI e UX. Desenvolvimento Front-End em conjunto a linguagem Java utilizando o Framework Java Struts E controle de versionamento CVS</p>
+					</h5>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong>Projeto Aulatech&lt;/a&gt;</strong>
+						<p>Desenvolvimento de site do projeto utilizando framework front-end Bootstrap em conjunto com a linguagem PHP e o framework Laravel;</p>
+						<p> Desenvolvimento Front End do sistema gerenciamento de video aulas aplicando técnicas de UX(User experience).</p>
+					</h5>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong>Projeto Jogo da Inovação</strong>
+						<p> Implementanção  soluções de UX e UI no Site do Projeto Jogo da Inovação(Join)</p>
+					</h5>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong>Projeto Hotsite Joinova</strong>
+						<p>Desenvolvimento do Hotsite Joinova, com Implementações para Mobile First(Responsivo) Utilizando Framework Bootstrap</p>
+					</h5>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong>Projeto Ecoeficiente Web Responsiva</strong>
+						<p>Desenvolvimento Front-End, com técnicas de UX E UI, utilizando framework Front-end Bootstrap em conjunto com a linguagem Ruby e o framework Rais.</p>
+					</h5>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong>Projeto Desenvolvimento de E-commerce</strong>
+						<p>Desenvolvimento Front-End e implantação de  E-commerce para fardamentos militar. Utilizando ferramenta Open Source(Opencart), juntamente com desenvolvimento Front-End(Xhtml, Css, Js). com técnicas de UX.</p>
+					</h5>
+			    </div>
+			  </div>	
+			</div>
+		</div>
+	</div>
+</section>
+:ET

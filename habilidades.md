@@ -16,24 +16,25 @@ permalink: habilidades
      <div class="row">
         <div class="col-sm-offset-2 col-sm-5">
            <ul class="list">
-              <li>HTML</li>
+              <li>HTML5</li>
               <li>Design Responsivo (Mobile First)</li>	
               <li>CSS(Less)</li>
-              <li>Css Frameworks (Bootstrap, Foundation)</li>	
-              <li>Git</li>
-              <li>Vagrant</li>
+              <li>CSS3 Frameworks (Bootstrap, Foundation)</li>	
               <li>Wordpress</li>
+              <li>Git</li>
+              <li>CVS</li>
            </ul>
         </div>
         <div class="col-sm-4">
            <ul class="list">
-           <li>Opencart</li>
-           	 <li>Jquery</li>
-             <li>Javascript</li>
-             <li>Scrum e Kanban</li>
-             <li>SEO</li>
-             <li>Jekyll(Me familiarizando =) )</li>
-             <li>Cvs</li>
+              <li>Opencart</li>
+               <li>Jquery</li>
+               <li>Javascript</li>
+               <li>Scrum e Kanban</li>
+               <li>SEO</li>
+               <li>Jekyll(Me familiarizando =) )</li>
+               <li>Gatsby(Me familiarizando =) )</li>
+               <li>Aplicação de Testes Funcionais</li>
            </ul>
         </div>
      </div>

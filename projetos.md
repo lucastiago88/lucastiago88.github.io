@@ -18,34 +18,50 @@ permalink: projetos
 			<div class="row">
 			  <div class="panel panel-default">
 			    <div class="panel-body">
-			    	<h5>
-						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://matricula2015.salvador.ba.gov.br/SIGE/" target="_blank">Projeto Redesign Sistema SIGE</a></strong>
-						<p>Redesign do sistema de SIGE- Sistema de Gestão de Pessoas utilizando conceitos de   UI e UX. Desenvolvimento Front-End em conjunto a linguagem Java utilizando o Framework Java Struts e controle de versionamento CVS</p>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://www.mapadaeducacao.salvador.ba.gov.br/inicio" target="_blank">Projeto Mapa da Educação</a></strong>
+						<p>Desenvolvimento Front-End do Mapa da Educação utilizando conceitos de UX e UI, html5,CSS3 e JS, além de Responsive Mobile, utilizando Framework Bootstrap 4. Em conjunto com a linguaguem PHP  e Framework YII. Além da Utilização de <strong>Testes Funcionais</Strong> visando atestar se a aplicação desenvolvida desempenha as funções dos  documentação de requisitos.</p>
 					</h5>
 					<h5>
-						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://matricula2016.salvador.ba.gov.br/mais/" target="_blank">Projeto Redesign Matrícula Informatizada</a></strong>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://os.educacao.salvador.ba.gov.br/DIRE/inicio/login" target="_blank">Projeto Sistema Ordem de Serviço</a></strong>
+						<p>Desenvolvimento Front-End do Sistema O.S da SMED( Secretaria Municipal de Salvador) utilizando conceitos de UX e UI, html5,CSS3 e JS, além de Responsive Mobile, utilizando Framework Bootstrap 4. Em conjunto com a linguaguem PHP  e Framework YII. Além da Utilização de <strong>Testes Funcionais</Strong> visando atestar se a aplicação desenvolvida desempenha as funções dos  documentação de requisitos.</p>
+					</h5>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://usuariounico.educacao.salvador.ba.gov.br/" target="_blank">Projeto Sistema Usúario Único</a></strong>
+						<p>Desenvolvimento Front-End do sistema Usúario Único  da SMED( Secretaria Municipal de Salvador) utilizando conceitos de UX e UI,HTML5,CSS3 e JS, além de Responsive Mobile, utilizando Framework Bootstrap 4. Em conjunto com a linguaguem PHP e Framework YII, Além da Utilização de <strong>Testes Funcionais</Strong> visando atestar se a aplicação desenvolvida desempenha as funções documentação de requisitos. </p>
+					</h5>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://educacao.salvador.ba.gov.br/" target="_blank">Projeto Portal da SMED( Secretaria Municipal de Salvador)</a></strong>
+						<p>Desenvolvimento  Front-End do Portal da SMED( Secretaria Municipal de Salvador) utilizando conceitos de UX e UI,HTML5,CSS3 e JS, além de Responsive Mobile, utilizando Framework Bootstrap 4.Em conjunto com CMS Wordpress</p>
+					</h5>
+			    	<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://web.educacao.salvador.ba.gov.br/SIGE/" target="_blank">Projeto Redesign Sistema SIGE</a></strong>
+						<p>Redesign do sistema de SIGE- Sistema de Gestão de Pessoas utilizando conceitos de   UI e UX. Desenvolvimento Front-End utilizando Framework Bootstrap, em conjunto a linguagem Java utilizando o Framework Java Struts e controle de versionamento CVS</p>
+					</h5>
+					<h5>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://matricula.educacao.salvador.ba.gov.br/mais/preparaLogar.do" target="_blank">Projeto Redesign Matrícula Informatizada</a></strong>
 						<p>Redesign do sistema de Matrícula utilizando conceitos de   UI e UX. Desenvolvimento Front-End em conjunto a linguagem Java utilizando o Framework Java Struts E controle de versionamento CVS</p>
 					</h5>
 					<h5>
-						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://aulatech.com.br/" target="_blank">Projeto Aulatech</a></strong>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong>Projeto Aulatech</strong>
 						<p>Desenvolvimento de site do projeto utilizando framework front-end Bootstrap em conjunto com a linguagem PHP e o framework Laravel;</p>
 						<p> Desenvolvimento Front End do sistema gerenciamento de video aulas aplicando técnicas de UX(User experience).</p>
 					</h5>
 					<h5>
-						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://jogodainovacao.com.br" target="_blank">Projeto Jogo da Inovação</a></strong>
-						<p> Implementanção  soluções de UX e UI no Site Jogo da Inovação  utilizando Wordpress.</p>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong>Projeto Jogo da Inovação</strong>
+						<p> Implementanção  soluções de UX e UI no Site do Projeto Jogo da Inovação(Join)</p>
 					</h5>
 					<h5>
-						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://jogodainovacao.com.br/joinova" target="_blank">Projeto Hotsite Joinova</a></strong>
-						<p>Desenvolvimento do Hotsite Joinova, com Implementações para Mobile First(Responsivo) Utilizando Frameword Bootstrap 3.</p>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong>Projeto Hotsite Joinova</strong>
+						<p>Desenvolvimento do Hotsite Joinova, com Implementações para Mobile First(Responsivo) Utilizando Framework Bootstrap</p>
 					</h5>
 					<h5>
-						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://ilp401-002.fieb.org.br/ecoeficiente" target="_blank">Projeto Ecoeficiente Web Responsiva</a></strong>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong>Projeto Ecoeficiente Web Responsiva</strong>
 						<p>Desenvolvimento Front-End, com técnicas de UX E UI, utilizando framework Front-end Bootstrap em conjunto com a linguagem Ruby e o framework Rais.</p>
 					</h5>
 					<h5>
-						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="http://www.lememilitar.com/ecommerce/" target="_blank">Projeto Desenvolvimento de E-commerce</a></strong>
-						<p>Liderança e desenvolvimento para implantação de  E-commerce para fardamentos militar. Utilizando ferramenta Open Source(Opencart), juntamente com desenvolvimento Front-End(Xhtml, Css, Js).</p>
+						<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong>Projeto Desenvolvimento de E-commerce</strong>
+						<p>Desenvolvimento Front-End e implantação de  E-commerce para fardamentos militar. Utilizando ferramenta Open Source(Opencart), juntamente com desenvolvimento Front-End(Xhtml, Css, Js). com técnicas de UX.</p>
 					</h5>
 			    </div>
 			  </div>	

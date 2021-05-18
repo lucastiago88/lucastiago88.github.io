@@ -1,0 +1,42 @@
+I"®<header id="blog" role="banner">
+	<div class="container">
+		<div class="row">
+			<h1>Blog</h1>
+		</div>
+	</div>	
+</header>
+
+<div class="container">
+  <div class="panel panel-default">
+    <div class="panel-body">
+		
+			<div class="row">
+				 <div class="col-sm-4 col-md-4 col-lg-4">
+					 <h5 style="text-align: right">
+					 	Dec 28, 2016
+					 </h5>
+				 </div>
+				 <div class="col-sm-8 col-md-8 col-lg-8">
+					 <h5 style="text-align: left">
+					 	<strong><a href="/blog/instalando-jekyll/">Instalando Jekyll</a></strong>
+					 </h5>
+				 </div>
+			</div>
+	    
+			<div class="row">
+				 <div class="col-sm-4 col-md-4 col-lg-4">
+					 <h5 style="text-align: right">
+					 	Dec 7, 2016
+					 </h5>
+				 </div>
+				 <div class="col-sm-8 col-md-8 col-lg-8">
+					 <h5 style="text-align: left">
+					 	<strong><a href="/blog/welcome-to-jekyll/">Welcome to Jekyll!</a></strong>
+					 </h5>
+				 </div>
+			</div>
+	    
+	</div>
+  </div>
+</div>
+:ET
